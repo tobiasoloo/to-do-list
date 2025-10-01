@@ -1,22 +1,22 @@
-#To-Do List with AI Suggestions
+To-Do List with AI Suggestions
 
-#This is a simple command-line to-do list manager written in Python. It allows you to add, list, and complete tasks, while also providing AI-powered task suggestions using OpenAI's API.
+This is a simple command-line to-do list manager written in Python. It allows you to add, list, and complete tasks, while also providing AI-powered task suggestions using OpenAI's API.
 
-#Features
+Features
 
-#✅ Add tasks with a description
+✅ Add tasks with a description
 
-#📋 List all tasks with completion status
+📋 List all tasks with completion status
 
-#✔️ Mark tasks as completed
+✔️ Mark tasks as completed
 
-#🤖 Get AI suggestions on which task to do next (using OpenAI)
+🤖 Get AI suggestions on which task to do next (using OpenAI)
 
-#Requirements
+Requirements
 
-#Python 3.8+
+Python 3.8+
 
-#OpenAI Python SDK
+OpenAI Python SDK
 
 Install dependencies:
 
